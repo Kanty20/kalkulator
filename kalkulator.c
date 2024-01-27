@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-    int a, b, x;              //16 bitów
+    int a, b, x;                      //16 bitów
     char c;                         //kod ASCII
 
     printf("Wpisz pierwsza liczbe: \n");
